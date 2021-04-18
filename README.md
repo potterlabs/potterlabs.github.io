@@ -1,1 +1,3 @@
-# potterlabs.github.io
+# Potter Labs
+
+We build software.
